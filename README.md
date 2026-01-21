@@ -39,16 +39,21 @@ This prototype demonstrates how AI can **reduce triage time**, improve operation
 ## 📂 Incident Input → System Output
 
 
-> **Input Incident**
+### 📝 Input Incident
+
 
 Router interface down after configuration change. Packet loss observed.
 
 
 ### 🖥 System Output
 
+
+
 <p align="center">
   <img src="assets/ui-output.png" width="650">
 </p>  
+
+
 
 
 > **Mapped Operational Domain**:  
