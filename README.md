@@ -36,15 +36,8 @@ This prototype demonstrates how AI can **reduce triage time**, improve operation
 
 ---
 
-## 🖥 UI Preview
+## 📂 Incident Input → System Output
 
-<p align="center">
-<img width="600" alt="UI Preview" src="docs/ui.png"/>
-</p>
-
----
-
-## 🧪 Demonstration Case
 
 > **Input Incident**
 
